@@ -45,6 +45,8 @@ Data that was used in this study is a part of a larger machine-learning project 
     - Gender, age, years in education and motor symptom severity score were all entered into the basic model as possible predictors & covariates.
     - **Hierarchical backwards multiple linear regression analysis** was used to establish whether retinal thickness was associated with ACE-R total score (which also removes the least significant predictors one at a time, however, variables are entered in a hierarchic structure - basic model from the backwards stepwise multiple linear regression + retinal thickness variables).
 
+To see exact statistical values, please refer to the .pdf document uploaded in the repository.
+
 ## Discussion
 
  - As predicted, PDD and PD-MCI participants were discovered to exhibit significantly more pronounced retinal thinning than healthy controls or PD participants. However, no significant retinal thickness differences were observed in AD or PD participants. Therefore, the hypothesis that patients with mild cognitive impairment or dementia associated with PD and AD exhibit reduced retinal thickness compared to controls was only partially supported.
