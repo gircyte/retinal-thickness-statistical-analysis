@@ -1,6 +1,6 @@
 # Is Retinal Thickness Associated with Cognitive Impairment in Parkinson's and Alzheimer's Disease?
 
-The .pdf file attached to this repository is my Bachelor's degree dissertation, completed April 2020.
+The .pdf file attached to this repository is my Bachelor's degree dissertation, completed April 2020 at Newcastle University, BSc Honours Psychology.
 The goal of this project is to:
  - Showcase my proficiency with statistical data analysis - choosing the correct statistical approach & seeing it through.
  - Demonstrate my ability to approach a a problem and measure it through a process of a thorough literature review, data management & statistical testing.
